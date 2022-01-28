@@ -1,0 +1,27 @@
+.container {
+  max-width: 900px;
+  margin: 100px auto;
+  padding: 20px;
+  color: var(--primary-color)
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 30px;
+}
+
+.title {
+  max-width: 400px;
+  margin: auto;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  margin-top: 30px;
+  border-top: 1px solid var(--primary-color);;
+}

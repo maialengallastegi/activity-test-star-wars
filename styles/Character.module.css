@@ -1,0 +1,6 @@
+.character {
+  margin: 10px;
+  padding: 20px;
+  width: min(100%, 250px);
+  border: 1px solid var(--primary-color);
+}
